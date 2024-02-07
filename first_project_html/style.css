@@ -1,1 +1,9 @@
-/* файл со стилями для проекта
+/* файл со стилями для проекта */
+a {
+   text-decoration: none;
+}
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
